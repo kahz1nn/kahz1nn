@@ -1,5 +1,5 @@
 - 👋 ola eu me chamo kahz1nn....
-- 👀 tenho muitos interesses como programação..
+- 👀 tenho muitos interesses com programação..
 .
 
 <!---
