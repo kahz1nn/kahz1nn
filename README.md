@@ -1,6 +1,6 @@
 - 👋 ola eu me chamo kahz1nn....
 - 👀 tenho muitos interesses com programação..
-.
+- ✨me segue la no isnta; @kaeohsilva
 
 <!---
 kahz1nn/kahz1nn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
