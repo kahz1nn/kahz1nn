@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+body{
+    background-color: #FBC16C;
+    
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cabeçalho-imag{
+     width: 15%;
+}
+
+.itens{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.menu{
+    background-image: linear-gradient(#000000, #FBC16C);
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.menu-img{
+    width: 25%;
+}
+
+.menu-div{
+    width: 35%;
+}
+
+.titulo-menu{
+    padding: 24px 0;
+}
+
+.membros-img{
+    width: 120px;
+}
+
+.icone-membros{
+    width: 24px;
+}
+
+.membros-div{
+    text-align: center;
+}
+
+.membros-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.todos-membros{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: #000000;
+    text-align: center;
+
+}
+
+.rodape-logo{
+    height: 60px;
+    padding: 12px 0;
+}
