@@ -1,5 +1,6 @@
 
 ola :strawberry: seja bem vindo :strawberry: sou o kaio
+/
 hello :strawberry: welcome :strawberry: I am Kaio
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
